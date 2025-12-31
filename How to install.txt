@@ -1,0 +1,21 @@
+Eye Care App - Setup Guide
+----------------------------------
+
+To ensure the application runs correctly and the user interface displays properly, please follow these steps:
+
+1. Install Required Python Libraries:
+If you are running the source code directly, open your terminal (CMD/PowerShell) and run the following command:
+
+pip install customtkinter screen-brightness-control plyer
+
+2. Install the Font:
+Locate the file named "Pacifico.ttf" in the folder.
+- Right-click on "Pacifico.ttf".
+- Select "Install" (or "Install for all users").
+This is necessary for the timer and text to display in the intended stylized format.
+
+3. System Notifications:
+Ensure that "Focus Assist" or "Do Not Disturb" is turned off in Windows settings so you can receive break alerts.
+
+Thank you for using Eye Care!
+Created by: sobi_kr
